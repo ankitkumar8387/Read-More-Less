@@ -1,0 +1,26 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 550px;
+  width: 400px;
+}
+.image {
+  height: 250px;
+  width: 400px;
+}
+.container-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: #1f81ff;
+  color: #ffffff;
+  font-family: roboto;
+  border-width: 0px;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
